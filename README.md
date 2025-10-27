@@ -9,7 +9,7 @@ I am Anika Rajvanshi, a BSc (Hons) Psychology major with research and a minor in
 - **Computational_Neuroscience**  
   Projects on curiosity, quantitative cognition, and behavioral neuroscience using Jupyter notebooks and Python.
 - **Machine_Learning**  
-  Data science and machine learning applications in behavioral data and psychological research.
+  Data science and machine learning projects.
 - **R_programming**  
   Data analysis and visualization projects using R.
 
