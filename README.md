@@ -1,7 +1,7 @@
 # Projects Portfolio
 
 ## About Me
-I am Anika Rajvanshi, a BSc (Hons) Psychology major with research and a minor in Biology at Ashoka University. This portfolio features selected academic, independent, and mentored projects in neuroscience, psychology, data science, and writing.
+I am Anika Rajvanshi, a BSc (Hons) Psychology major with research and a minor in Biology at Ashoka University. This portfolio features selected academic, independent, and mentored projects in neuroscience, psychology, and data science.
 
 ---
 
