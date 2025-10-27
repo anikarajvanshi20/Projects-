@@ -22,7 +22,7 @@ Each project folder contains:
 
 
 ## Skills
-Python, R, pandas, NumPy, matplotlib, Microsoft Excel, Jamovi, BORIS, Survey Design & Analysis, Experimental Design, Data Visualization, Scientific Writing, Mentorship, Leadership
+Python, R, pandas, NumPy, matplotlib, Microsoft Excel, Experimental Design, Data Visualization
 
 ---
 
