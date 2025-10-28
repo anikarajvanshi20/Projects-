@@ -4,7 +4,7 @@ Showcasing data analysis and visualization projects using R, with a focus on psy
 
 ## Projects & Scripts
 
-- **ggplots/**  
+- [**ggplots**](ggplots)
   Scripts and examples for advanced data visualization in R using ggplot2.
 
 ## Key Skills & Tools
