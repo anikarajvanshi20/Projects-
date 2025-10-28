@@ -4,7 +4,7 @@ This section features projects in computational neuroscience, combining experime
 
 ## Projects
 
-- **Modelling_Hebbian_Learning.ipynb**  
+- [**Modelling_Hebbian_Learning**](Modelling_Hebbian_Learning.ipynb)  
   Explores neural plasticity using Hebbian learning models. Demonstrates implementation of synaptic modification mechanisms and their role in learning and memory.
 
 ## Key Skills & Tools
